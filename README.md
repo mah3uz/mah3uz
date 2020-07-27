@@ -3,7 +3,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Hi there 👋 
-- 🔭 I’m currently working in DevOps | Laravel | Livewire, Alpine.js | System Administration | Web Development :code: | Cloud :cloud: 
+- 🔭 I’m currently working in DevOps | Laravel | Livewire, Alpine.js | System Administration | Web Development 🌍 | Cloud :cloud:
 - 🌱 I’m currently learning the Django | Full-Stack :zap: | Open-Source :fire:	
 - 💝 Love Books :books: | Music :headphones:
 - 👯 I’m looking to collaborate on Django Project.
