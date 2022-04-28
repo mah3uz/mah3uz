@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Django Project.
 - 🤔 I’m looking for Mentor.
 - 💬 Ask me about: Linux System Administration
-- 📫 How to reach me: mahfuz@mah3uz.com
+- 📫 How to reach me: [Twitter](https://twitter.com/mah3uz)
 - ⚡ Fun fact: When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
 
 
