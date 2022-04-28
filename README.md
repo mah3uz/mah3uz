@@ -1,6 +1,4 @@
 ## Mahfuz Shaikh 👨‍💻
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Hi there 👋 
 - 🔭 I’m currently working in DevOps | Laravel | Livewire, Alpine.js | System Administration | Web Development 🌍 | Cloud :cloud:
 - 🌱 I’m currently learning the Django | Full-Stack :zap: | Open-Source :fire:	
