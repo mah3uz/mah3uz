@@ -1,7 +1,6 @@
 ## Mahfuz Shaikh 👨‍💻
 ### Hi there 👋 
 - 🔭 I’m currently working with Rails | Vue | InertiaJS | Laravel | System Administration 🌍 | Cloud :cloud:
-- 🌱 I’m currently learning the Django | Full-Stack :zap: | Open-Source :fire:	
 - 💝 Love Books :books: | Music :headphones:
 - 🤔 I’m looking for Mentoring.
 - 💬 Ask me about: Linux System Administration
